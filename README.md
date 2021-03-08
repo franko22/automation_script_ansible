@@ -1,1 +1,1 @@
-# poc_app_1
+# Automation script
